@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ephraim Omenai
-- 👀 I’m interested in buiding exciting projects that will sharpen my skills and working with others
-- 🌱 I’m currently learning the basics of Frontend Development
+- 👀 I’m interested in buiding exciting projects that will sharpen my skills, also interested in working with experienced developers.
+- 🌱 I’m currently learning and practicing the basics of Frontend Development
 - 📫 Reach me through my gmail: eomenaiofficial@gmail.com
 
 <!---
